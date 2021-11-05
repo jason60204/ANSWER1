@@ -44,3 +44,6 @@ BIG O(n*n) array = n;
     if(result.size() == targetElement.length) return true; else false;
     
 }
+
+
+BIG O (log) better than BIG O (n*n)
